@@ -39,7 +39,7 @@ A seguir, estão os print screens da conexão do recurso com o Vision Studio:
 
 Siga as instruções abaixo para utilizar as imagens fornecidas
 
-1. Baixe o arquivo<a href="https://github.com/EduFreitasArantes/lab-ai-900_AnaliseDeImagens/blob/main/MyFiles.zip" target="_blank">MyFiles.zip</a> contendo suas imagens.
+1. Baixe o arquivo <a href="https://github.com/EduFreitasArantes/lab-ai-900_AnaliseDeImagens/blob/main/MyFiles.zip" target="_blank">MyFiles.zip</a> contendo 07 imagens.
 6. Abra a pasta no seu computador e localize as imagens desejadas.
 7. Carregue as imagens no Vision Studio e revise os detalhes da detecção de rosto.
 
